@@ -29,9 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeleven-11&show_icons=true&locale=en" alt="jeleven-11" /></p>
 
 ### 🐍 Commits
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeleven-11/Jeleven-11/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeleven-11/Jeleven-11/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeleven-11/Jeleven-11/output/github-contribution-grid-snake.svg" />
-</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeleven-11/Jeleven-11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeleven-11/Jeleven-11/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jeleven-11/Jeleven-11/output/github-snake.svg" />
+</picture>
