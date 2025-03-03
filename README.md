@@ -25,3 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeleven-11&show_icons=true&locale=en&layout=compact" alt="jeleven-11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeleven-11&show_icons=true&locale=en" alt="jeleven-11" /></p>
+
+### 🐍 **GitHub Contribution Snake**  
+![snake gif](https://github.com/Jeleven-11/Jeleven-11/blob/output/github-contribution-grid-snake.svg)
+
